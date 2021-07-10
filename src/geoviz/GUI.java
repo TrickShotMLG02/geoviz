@@ -66,7 +66,7 @@ public class GUI extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 		this.primaryStage = primaryStage;
-		setupGUI(primaryStage, 750, 750, "PK1 - Project");
+		setupGUI(primaryStage, 750, 750, "GeoViz");
 		addEvents(scene);
 	}
 
